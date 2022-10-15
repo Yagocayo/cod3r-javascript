@@ -16,8 +16,8 @@ console.log(true !== false)
 console.log(false !== true)
 console.log(false !== false)
 
-console.log('não verdadeiro: '! true)
-console.log('nao falso' + !false)
+console.log( 'não verdadeiro: ' + !true)
+console.log(' nao falso ' + !false)
 
 /*
 E, AND = &&
