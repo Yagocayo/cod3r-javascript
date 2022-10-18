@@ -9,3 +9,11 @@ a--
 --a
 
 console.log(a)
+
+ /* 
+ a + b infix
+
+ a++  postfix
+
+ ++a prefix
+ */
