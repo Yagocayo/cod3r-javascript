@@ -9,7 +9,7 @@ console.log(verdadeira2)
 //duas expressões resultar em FALSE(aritimetico/relacionais/logicos)
 
 let falso1 = 3 + 5 <= 3 && 3 > 4
-let falso2 = 3 * 3 > 10
+let falso2 = 3 * 3 > 10 || 9 > 10
 
 console.log(falso1)
 console.log(falso2)
