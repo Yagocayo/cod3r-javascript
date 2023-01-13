@@ -1,6 +1,6 @@
 function executar(parametro) {
     if(typeof parametro === "function") {
-        console.log(parametro())// <-- Central da aula
+        console.log(parametro())// <-- parte central da aula
     }
 }
 function bomdia() {
@@ -8,7 +8,7 @@ function bomdia() {
 }
 
 executar(3)
-executar(bomdia) // <-- Central da aula
+executar(bomdia) // <-- parte central da aula
 
 const x = bomdia
 const y = bomdia()
