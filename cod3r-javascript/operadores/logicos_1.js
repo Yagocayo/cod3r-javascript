@@ -1,4 +1,4 @@
-let temDinheiro = false
+ let temDinheiro = false
 let estaEnsolarado = false
 let carroEstaNaGaragem = false
 
