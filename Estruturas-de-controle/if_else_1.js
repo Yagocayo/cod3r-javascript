@@ -1,10 +1,15 @@
-if (true) 
-console.log(" exec...");
+const verdadeira = true;
+const falso = false;
 
-else 
+// pode usar sentença e bloco
+
+if (verdadeira)  {
+console.log("exec...");
+}
+else {
 console.log("não exec...");
-if (false)
+}
+if (falso)
 console.log(" não exec...");
-
 else 
 console.log("exec...");

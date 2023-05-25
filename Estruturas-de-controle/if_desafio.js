@@ -1,4 +1,4 @@
-const nota = 4
+const nota = 19
 
 
 if(nota <= 10 && nota >= 9) {
@@ -16,6 +16,7 @@ if(nota <= 4.9 && nota >= 4.5){
 if(nota <= 4.4 ){
     console.log('Sua nota é F')
 }
+
 
 console.log('fim')
     

@@ -1,8 +1,8 @@
-const a = 8
+const a = 10
 const b = 28
-const operacao = '*'
+const operacao = '/' // + - * / %
 
-let resultado
+let resultado        // if ... else if...else
 
 if (operacao === '+'){
     resultado = a + b

@@ -1,4 +1,4 @@
-const nota = 9
+const nota = 9.8
 
 if (nota >= 9) {
     console.log('Quadro de honras')

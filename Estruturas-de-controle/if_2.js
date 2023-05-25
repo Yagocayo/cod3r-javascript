@@ -1,4 +1,4 @@
-const nota = 8
+const nota = 5
 const bomComportamento =  true
 
 
