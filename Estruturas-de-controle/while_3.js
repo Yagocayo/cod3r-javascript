@@ -1,4 +1,4 @@
-const futuro = Date.now() + 10000
+const futuro = Date.now() + 1000
 let quantidade = 0
 
 while (Date.now() < futuro ) {
