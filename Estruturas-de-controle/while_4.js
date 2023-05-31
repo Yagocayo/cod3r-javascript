@@ -7,4 +7,4 @@ while(controle <= 10) {     //expresão que precisa mudar durante o >
 }
 console.log("fim")
 
-/* declaração , expresão, incremento -> quantidade determinada de repeição */
+/* declaração ; expresão ; incremento -> quantidade determinada de repeição */ 
