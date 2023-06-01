@@ -17,6 +17,6 @@ for(let i = 1; i <= 6; i++) {
 }
 */
 
-for (let s = '#'; s != '#######'; s += '#'){
+for (let s = 'a'; s != 'aaaaaaa'; s += 'a'){
     console.log(s)
 }
