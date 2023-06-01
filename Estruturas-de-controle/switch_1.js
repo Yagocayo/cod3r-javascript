@@ -1,5 +1,5 @@
 
-let nota = -1
+let nota = 10
 
 switch(Math.ceil(nota)) {
     case 10:
