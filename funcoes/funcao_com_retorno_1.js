@@ -3,7 +3,7 @@ function sempreRetornaUm () {
 
 }
 function textoOuNumero(retornaTexto){
-    return retornarTexto ? 'Sou um texto' :123
+    return retornaTexto ? 'Sou um texto' :123
     /*if (retornaTexto){
         return "sou um texto"
     } else {

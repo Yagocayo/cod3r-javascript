@@ -11,6 +11,9 @@ function multiplicar (aa1, bb2, cc3) {
 function dividir (a, b, c, d) {
     console.log(a /b /c /d)
 }
+function modulo (m1, m2){
+    console.log(m1 % m2)
+}
 
 somar(3,4)
 somar(10,4)
@@ -23,3 +26,6 @@ multiplicar ( 2, 2, 2)
 
 dividir(1000, 10, 5, 4)
 dividir(10000, 5, 5, 4)
+
+modulo(10, 3)
+modulo (100, 9 )
