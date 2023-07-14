@@ -1,11 +1,11 @@
-const nota1 = 7.3;
-const nota2 = 8.9;
-const nota3 = 8;
+const nota1 = 2.3;
+const nota2 = 2;
+const nota3 = 2;
 
 function minimo (n1, n2) {
-    return n1 <= n2 ? n1 : n2;
+    return n1 <= n2 ? n1 : n2; //operador ternario
+    
 }
-
 function media(n1, n2, n3) {
     const menorNota = minimo(n1, minimo(n2, n3));
 
@@ -21,7 +21,7 @@ function media(n1, n2, n3) {
 function mediaParaStatus(media) {
     if(media >= 7){
         return "Aprovado";
-    } else if (madia >= 4) {
+    } else if (media >= 4) {
         return "Recuperacão";
     } else {
        return "Reprovado";
@@ -30,4 +30,4 @@ function mediaParaStatus(media) {
 
 const mediaFinal = media(nota1, nota2, nota3);
 const statusFinal = mediaParaStatus(mediaFinal);
-console.log(`O resultado final do aluno é ${statusFinal}!`);
+console.log(`O resultado final do aluno é ${statusFinal}!`)
