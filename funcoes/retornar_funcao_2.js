@@ -1,3 +1,5 @@
+//retornando funçao anonima
+
 function retornaUmaFuncao() {
     return function () {
         return "Boa tarde!"

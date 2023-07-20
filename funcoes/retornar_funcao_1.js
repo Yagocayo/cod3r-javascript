@@ -1,3 +1,5 @@
+// apartir de uma funçaõ chamar outra funcão
+
 function retornar() {
 
    function bomDia() {

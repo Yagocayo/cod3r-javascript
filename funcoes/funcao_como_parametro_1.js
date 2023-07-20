@@ -1,3 +1,5 @@
+//funções como parametros
+
 function executar(parametro) {
     if(typeof parametro === "function") {
         console.log(parametro())// <-- parte central da aula

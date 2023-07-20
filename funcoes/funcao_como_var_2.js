@@ -1,3 +1,5 @@
+// fazendo a chamada da função direta ou pela variavel
+
 function subtrair(a, b) {
     return a - b
 }

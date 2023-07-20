@@ -1,3 +1,5 @@
+//exemplo de função que retorna uma outra função
+
 function somar1(a, b) {
     return a + b
 

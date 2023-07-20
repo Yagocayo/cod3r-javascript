@@ -1,3 +1,6 @@
+//IIFE pesquisar no goole
+//armazenando função em uma variavel
+
 const x = 123
 let y = 321
 var z = 323
