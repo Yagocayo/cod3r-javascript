@@ -1,12 +1,14 @@
 
+
+
 console.log(typeof console)
-console.log(typeof console.log)
+console.log(typeof console.log)// method (metodo) é uma função que pertence a objeto
 
 const numeros = [1, 2, 3]
 
 console.log(typeof numeros)
 
-numeros.push(4) // adicionando novos dados em um array
+numeros.push(4) // adicionando novos dados 'indeces' dentro de um array
 numeros.push(5)
 numeros.push(10.98)
 
