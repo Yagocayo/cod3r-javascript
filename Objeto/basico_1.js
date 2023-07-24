@@ -1,7 +1,13 @@
-/*let x = 3
+/* array e reprsentado por [] e objeto por {}
+
+array e organizado por indece(posição) e elmento(conteudo)
+objeto e organizado por chave e valor
+
+
+let x = 3
 let y = []
 
-console.log(Array.isArray(x))
+console.log(Array.isArray(x)) testando se é um array
 
 
 
