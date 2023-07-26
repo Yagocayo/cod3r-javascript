@@ -29,6 +29,7 @@ console.log(produto['nome'])
 console.log(produto['preco'])
 console.log(produto['desconto'])
 
+// forma mais comun de acessar uma informção dentro o objeto
 
 console.log(produto.nome)
 console.log(numeros.preco)

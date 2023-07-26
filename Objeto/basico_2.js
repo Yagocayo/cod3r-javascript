@@ -1,4 +1,4 @@
-
+//objeto é composto por atributos e metodos(comportamentos, membros)
 const produto = {
     nome: 'ipad',
     preco: 5600,

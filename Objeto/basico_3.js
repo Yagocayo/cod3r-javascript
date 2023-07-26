@@ -7,3 +7,5 @@ data.dia = 24
 data.mes = 12
 
 console.log(`${data.dia}/${data.mes}/${data.ano}`)
+
+//alterando atributos dentro do objeto
